@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "celo-builders": {
+      "source": "celobuilders.xyz",
+      "sourceType": "well-known",
+      "computedHash": "620bde6ceab28f9d3a98902c15e454f64cb4b8b0253f956627fae7e9b199e5fe"
+    }
+  }
+}
